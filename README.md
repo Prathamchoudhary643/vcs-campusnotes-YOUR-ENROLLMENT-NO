@@ -20,3 +20,5 @@ CampusNotes is a simple student notes management project.
 
 Pratham Chourdhary
 
+Updated through second cloned repository.
+
